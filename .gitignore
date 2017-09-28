@@ -1,4 +1,4 @@
 # Created by .ignore support plugin (hsz.mobi)
 .idea/
-JupyterBeautifier/__pycache__/
+jupyter_beautifier/__pycache__/
 __pycache__/
