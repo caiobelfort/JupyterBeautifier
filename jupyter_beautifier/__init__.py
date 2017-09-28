@@ -37,7 +37,7 @@ def hide_element(element):
 
     html_string = """
         <style>
-            .{} {{display: None;}}
+            {} {{display: None;}}
         </style>
     """.format(element)
 
@@ -49,7 +49,7 @@ def show_element(element):
 
     html_string = """
        <style>
-            .{} {{display: 1;}}
+            {} {{display: 1;}}
         </style>
     """.format(element)
 
