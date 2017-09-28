@@ -13,8 +13,7 @@ setup(
     classifiers=[
         'Development Status :: 3 - Alpha',
         'Intended Audience :: Developers',
-        'Topic :: Jupyter Notebook',
-        'Programming Language :: Python 3.6'
+        'Programming Language :: Python :: 3.6'
     ],
     install_requires=['jupyter']
 )
